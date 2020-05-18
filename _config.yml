@@ -1,0 +1,8 @@
+title: Pjpan.GitHub.io
+description: a personal machine learning blog
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-leap-day
+
+gems:
+  - jekyll-mentions
